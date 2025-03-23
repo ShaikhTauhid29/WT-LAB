@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee SYSTEM "XmlDtd.dtd">
+<employee>
+<name>TAUHID</name>
+<ID>1</ID>
+<DOB>2004</DOB>
+<salary>100000</salary>
+</employee>
