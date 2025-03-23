@@ -1,0 +1,21 @@
+#h2{
+    color: red;
+}
+@media only screen and (max-width:1030px) {
+   body{
+    background-color: rgb(255, 255, 255);
+   }
+   .logo{
+    height: 110px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px ;
+    padding-top:20px ;
+    padding-left: 20px;
+
+
+   }
+    
+}
